@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+    src: url('http://at.alicdn.com/t/font_2472731_tbj2r9o7bhq.eot?t=1617868629555'); /* IE9 */
+    src: url('http://at.alicdn.com/t/font_2472731_tbj2r9o7bhq.eot?t=1617868629555#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANMAAsAAAAAB5gAAAL/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCfIJTATYCJAMMCwgABCAFhG0HOhudBsgusG3YE4ywFlAMAQvO8yB3S0GEazab5FIAUICyHtACOlHhUFWoKsH/Rr1+Y+//1sy/Cc8xzbuzCasjgMDMZhOeTA4YC66VFbKu6iqBXesqq5cg2d3zY0YTq5IJTNLYNCMKqShSlra2AQgAg/1xuNemZYHMBxRQimMOG2tSF1AXBxTQ2Ius6AvzH6aXryEPxHYI8CszEIamjgHQMXg/AbJJogN0GSXTECu8hK2YmrNwDmre4lU8A3ANfi8/2EIHxSnxofO10Q01n+ZviXJdzoRBAGs6PcBmgQYdgIGMlcY9ZeTuUPI7QlVzqGUINZVNlhEw3X94lgWKQCo8OgigAT0K/xrFTEQlkH3VW2kAFoTBAXAEjkvy+DjRCRb8Q932RyDcKPVQEB5NCi8GklCJNMpHZjY3bwXl8yZ94HpdjNxlCbeZidfpcDNyy6CKudSCIiONlc8n2yzu7jYyh26v0xU3N+uWQosFLIY/UbE55TZfRZbX5UzMQFjzKebzk/yRRV6UE5NbYvDiz+tzfZ/+4vUFVEMz5J+XpL0Pz85RLzpH1XC/zSTU4x/f2ePtuunAr5ZqP8AMwOWtdk25DuCWU8E9AhB8i0qLp5Mq/nsDCeDv+usgoHfHFIGXAmP9EH0+y1zrmsuBLp2gQe3kvfm0Pv3t5uLnBy7YGvd7uDR1017hlUpA8SiB5lVBGmwHHAFdsLx64NfWPDsggVGSbEDLDgAR9Q6UsAdoUR+RBvsLHGn/wIqGEvy2kbZkQC0kVM+IgxM3di5gyRUKUqnhKIztI2LM72BpTkAYIiwq2bDVZMn7mkmQsClGRGdFG+cUUxYK4CawG/H7QzjMQl7i4iYP5+Eys5lWfcjkCgUAGWEIB45ww5wWYBKXkCBqanOo8P0+hCjGz4E1lHSohxBMlNQ4ZmVi6YBsFgY7ldzKLVGzRDYcR2EUExKANQE94RfuECxc3cmLcOFMPAOcYWXMqBLtKjQtLw683zrAj6+vo4gykt09oVhE0i56HEGfQwIAAA==') format('woff2'),
+    url('http://at.alicdn.com/t/font_2472731_tbj2r9o7bhq.woff?t=1617868629555') format('woff'),
+    url('http://at.alicdn.com/t/font_2472731_tbj2r9o7bhq.ttf?t=1617868629555') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('http://at.alicdn.com/t/font_2472731_tbj2r9o7bhq.svg?t=1617868629555#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .iconshouqi:before {
+    content: "\e623";
+  }
+  
+  .iconzhankai:before {
+    content: "\e606";
+  }
+  
